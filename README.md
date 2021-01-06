@@ -1,7 +1,7 @@
 # parse-prc-reports
 Parse and merge reports from Philippines Red Cross local chapters into one table, to be used for 3W reporting. 
 
-Reports must follow [this format](https://drive.google.com/file/d/1uUliURyV0wn8Y1aq6pBpuxHm8pxeHTWH/view?usp=sharing). Output follows [this other format](https://drive.google.com/file/d/1F77-PW-NRdgfuCuAw095YQUpCQwCSHzw/view?usp=sharing).
+Reports (input) must follow [this format](https://drive.google.com/file/d/1uUliURyV0wn8Y1aq6pBpuxHm8pxeHTWH/view?usp=sharing). Final table (output) follows [this other format](https://drive.google.com/file/d/1F77-PW-NRdgfuCuAw095YQUpCQwCSHzw/view?usp=sharing).
 
 ## Requirements
 * Python > 3.7
