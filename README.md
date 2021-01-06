@@ -9,8 +9,12 @@ Reports must follow [this format](https://drive.google.com/file/d/1uUliURyV0wn8Y
 * [click](https://pypi.org/project/click/)
 
 ## Usage
-Add the 
-
+Add the reports into one directory named e.g. "input-reports". Then from terminal execute
+```
+$ python parse_reports --input path/to/input-reports --output final-table.xlsx
+```
+Documentation
+```
 Usage: parse_reports.py [OPTIONS]
 
   merge PRC chapter reports into one table and save it
@@ -19,3 +23,4 @@ Options:
   --input TEXT   input directory with chapter reports
   --output TEXT  output (xlsx)
   --help         Show this message and exit.
+```
